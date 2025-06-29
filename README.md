@@ -13,7 +13,7 @@ The STorM32 BGC boards and all other hardware published here are open source har
 
 The firmwares are free and the GUI is open source, for the details of the terms of usage/licenses see <a href="http://www.olliw.eu/2013/storm32bgc">here</a>.
 
-<strong>Further resources:</strong><br>- project web page http://www.olliw.eu/2013/storm32bgc (out-dated)/<br>- thread at rcgroups http://www.rcgroups.com/forums/showthread.php?t=2055844<br>- wiki for the documentation http://www.olliw.eu/storm32bgc-wiki/
+<strong>Further resources:</strong><br>- project web page http://www.olliw.eu/2013/storm32bgc (out-dated)<br>- thread at rcgroups http://www.rcgroups.com/forums/showthread.php?t=2055844<br>- wiki for the documentation http://www.olliw.eu/storm32bgc-wiki
 
 ## STorM32 v6.2 Board
 
